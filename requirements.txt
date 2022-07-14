@@ -1,9 +1,7 @@
-alembic
 fastapi
 psycopg2-binary
 pydantic
 SQLAlchemy
-uvicorn
 gunicorn 
 databases
 asyncpg
