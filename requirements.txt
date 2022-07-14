@@ -6,4 +6,4 @@ SQLAlchemy
 uvicorn
 gunicorn 
 databases
-asyncpg
+async
