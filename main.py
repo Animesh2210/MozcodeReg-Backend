@@ -2,7 +2,6 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 import sqlalchemy
 import databases
-from fastapi import FastAPI
 
 DATABASE_URL = "postgresql://ugnlqudyvozqly:4d99c0cedc5a9dc2981f03252e471c33a97d9f8acdbedf4f93daeb27b44e013a@ec2-23-23-182-238.compute-1.amazonaws.com:5432/dbp5bm3o21pc8a"
 
